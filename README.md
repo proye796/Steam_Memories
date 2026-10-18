@@ -15,3 +15,4 @@ https://github.com/proye796/Steam_Memories/releases/tag/8
 
 ## 메모리즈 오프 Innocent Fille for Dearest
 
+https://github.com/proye796/Steam_Memories/releases/tag/8FD
